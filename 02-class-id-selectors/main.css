@@ -1,0 +1,23 @@
+/* stylesheet */
+
+.odd {
+    background-color: rgb(231, 167, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd3 {
+    background-color: rgb(231, 167, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.greenbean {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
