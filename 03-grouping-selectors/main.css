@@ -1,0 +1,16 @@
+/* stylesheet */
+
+.black, .yellow {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}
+
+.yellow {
+    color: black;
+    background-color: yellow;
+}
